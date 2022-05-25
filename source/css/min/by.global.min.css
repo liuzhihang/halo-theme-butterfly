@@ -89,7 +89,7 @@ hr:before {
   font-size: initial;
 }
 .by_card_widget {
-  border-radius: 25px;
+  border-radius: 8px;
   background: var(--card-bg);
   box-shadow: var(--card-box-shadow);
   transition: all 0.3s;
@@ -512,7 +512,7 @@ hr:before {
   display: flex;
   flex-direction: row;
   align-items: center;
-  height: 20em;
+  height: 18em;
 }
 .by_container .by_posts_item:not(:first-child) {
   margin-top: 1rem;
@@ -521,7 +521,7 @@ hr:before {
   overflow: hidden;
   width: 45%;
   height: 100%;
-  border-radius: 25px 0 0 25px;
+  border-radius: 8px 0 0 8px;
 }
 .by_container .by_posts_cover img {
   width: 100%;
