@@ -22,3 +22,4 @@ app/**/*.map
 test/**/*.map
 config/**/*.map
 .idea/
+.idea/*
